@@ -1,4 +1,3 @@
-from operator import is_
 from random import randint
 def greet():
     print("                   ")
